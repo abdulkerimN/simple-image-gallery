@@ -4,3 +4,4 @@
 
 ## Live Demo: https://abdulkerimn.github.io/simple-image-gallery/
 
+<img width="945" height="420" alt="simple image gallery" src="https://github.com/user-attachments/assets/2830e5a5-982b-4a20-a60b-dfae40612fd4" />
